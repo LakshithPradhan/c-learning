@@ -7,7 +7,7 @@ void main()
     printf("Enter two numbers: ");
     scanf("%d %d", &a, &b);
 
-    temp = a;
+    temp=a;
     a = b;
     b = temp;
 
